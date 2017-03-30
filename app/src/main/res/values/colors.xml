@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Biru">#42A5F5</color>
+    <color name="bg_gradient_start">#303F9F</color>
+    <color name="bg_gradient_end">#880E4F</color>
+</resources>
